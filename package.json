@@ -2,6 +2,7 @@
 	"author": "Jocelyn",
 	"description": "learning backend fundamentals",
 	"keywords": ["freecodecamp", "backend", "packages", "apis"],
+	"license": "learning",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
